@@ -1,5 +1,5 @@
 # Phone Location
-#clone the repo, then install the phonenumbers package by-
+clone the repo, then install the phonenumbers package by-
 pip install phonenumbers
 
 
